@@ -20,6 +20,8 @@ This project is a fully functional chess game built using **Pygame**. It feature
 3. **User-Friendly Interface**
    - Intuitive drag-and-drop controls for moving pieces.
    - Clear visual feedback for piece selection and move legality.
+4. **AI for single-player mode**
+   - Opponent controlled by AI functionality added.
 
 ## How to Play
 1. Start the game by running the script.
@@ -29,7 +31,6 @@ This project is a fully functional chess game built using **Pygame**. It feature
 
 ## Future Improvements
 - Add support for multiplayer over a network.
-- Implement AI for single-player mode.
 - Provide a move history and undo functionality.
 - Enhance the evaluation bar with detailed insights.
 
